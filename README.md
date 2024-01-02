@@ -1,7 +1,7 @@
 # Hi there! 👋 
 
 <div align="center">
-  <img alt="Cat gif" src="https://media.giphy.com/media/lP8ezu4iNVmZYOZn3j/giphy.gif" height="250px"/>
+  <img alt="Cat gif" src="https://media.giphy.com/media/lP8ezu4iNVmZYOZn3j/giphy.gif" height="200px"/>
 </div>
 
 ## 🤓 About me
@@ -22,13 +22,13 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-5162ff?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-5560f8?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/React-5a5ef1?style=flat-square&logo=react&logoColor=white" />
-  <img alt="NextJS" src="https://img.shields.io/badge/next%20js-5e5cea?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img alt="NextJS" src="https://img.shields.io/badge/Next%20js-5e5cea?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img alt="Angular" src="https://img.shields.io/badge/Angular-635ae3?style=flat-square&logo=angular&logoColor=white" />
   
   <img alt="Redux" src="https://img.shields.io/badge/Redux-6758dc?style=flat-square&logo=redux&logoColor=white" />
   <img alt="Storybook" src="https://img.shields.io/badge/storybook-6c56d5?style=flat-square&logo=storybook&logoColor=white" />
   <img alt="Leaflet" src="https://img.shields.io/badge/Leaflet-7054ce?style=flat-square&logo=Leaflet&logoColor=white" />
-  <img alt="Styled components" src="https://img.shields.io/badge/styled--components-7552c7?style=flat-square&logo=styled-components&logoColor=white" />
+  <img alt="Styled components" src="https://img.shields.io/badge/Styled--components-7552c7?style=flat-square&logo=styled-components&logoColor=white" />
   <img alt="Vite" src="https://img.shields.io/badge/Vite-794fc0?style=flat-square&logo=vite&logoColor=white" />
   
   <img alt="HTML" src="https://img.shields.io/badge/HTML5-7d4db9?style=flat-square&logo=html5&logoColor=white" />
@@ -67,7 +67,6 @@
 
 💻 Creating my resume website [in this repo](https://github.com/marcol13/milp-electre)
 
- 
 <p>
   🏫 I am learning: 
   <img src="https://img.shields.io/badge/Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white" />
@@ -76,44 +75,36 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white" />
 </p>
 
-
-<p>
-  🌈 Future plans:
-  <img src="https://img.shields.io/badge/remix-000000?style=flat-square&logo=remix&logoColor=white" />
-  <img src="https://img.shields.io/badge/ThreeJs-black?style=flat-square&logo=three.js&logoColor=white" />
-</p>
-
 💡 I have a lot of other cool ideas 😎
 
 ## 📊 Some cool stats
 
-<p>
-  <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=marcol13&show_icons=true&theme=synthwave"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=marcol13&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=marcol13&show_icons=true" />
-</picture>
-</p>
-
-<p>
-  <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=marcol13&size_weight=0.2&count_weight=0.8&theme=synthwave"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=marcol13&size_weight=0.2&count_weight=0.8"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcol13&size_weight=0.2&count_weight=0.8" />
-</picture>
-</p>
+<div float="left">
+  <p>
+    <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=marcol13&show_icons=true&theme=synthwave"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=marcol13&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=marcol13&show_icons=true" height="200px"/>
+  </picture>
+    <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=marcol13&size_weight=0.2&count_weight=0.8&theme=synthwave&layout=compact"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=marcol13&size_weight=0.2&count_weight=0.8&layout=compact"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcol13&size_weight=0.2&count_weight=0.8&layout=compact" height="200px"/>
+  </picture>
+  </p>
+</div>
 
 
 ## 🚀 How to reach me
