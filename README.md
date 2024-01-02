@@ -1,16 +1,14 @@
 # Hi there! 👋 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/lP8ezu4iNVmZYOZn3j/giphy.gif" />
-
- 
+  <img alt="Cat gif" src="https://media.giphy.com/media/lP8ezu4iNVmZYOZn3j/giphy.gif" height="250px"/>
 </div>
 
 ## 🤓 About me
 
 👨‍💻 My name is Marcin and I am Software Engineer stationed in Poland 🇵🇱
 
-👨‍💼 Currently working as a Frontend Developer in [@PSNC](https://www.linkedin.com/company/poznan-supercomputing-and-networking-center/mycompany/)
+👨‍💼 Currently working as a Frontend Developer at [@PSNC](https://www.linkedin.com/company/poznan-supercomputing-and-networking-center/mycompany/)
 
 👨‍🎓 Master's student in Artificial Intelligence with an engineering degree
 
