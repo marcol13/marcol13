@@ -87,7 +87,7 @@
 
 💡 I have a lot of other cool ideas 😎
 
-## 🧧 Some cool stats
+## 📊 Some cool stats
 
 <p>
   <picture>
@@ -120,22 +120,4 @@
 
 ## 🚀 How to reach me
 
-Write me an email or contact me through [Linkedin](https://www.linkedin.com/in/marcin-krueger/?locale=en_US)
-
-
- <!--[<img src="[https://media.giphy.com/media/maNB0qAiRVAty/giphy.gif](https://media.giphy.com/media/mcsPU3SkKrYDdW3aAU/giphy.gif)" />](https://media.giphy.com/media/mcsPU3SkKrYDdW3aAU/giphy.gif) -->
-
-<!--
-**marcol13/marcol13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Write me an [email](mailto:marcinkrueger@gmail.com) or contact me through [LinkedIn](https://www.linkedin.com/in/marcin-krueger/?locale=en_US)
