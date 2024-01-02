@@ -6,9 +6,9 @@
  
 </div>
 
-## About me
+## 🤓 About me
 
-👨‍💻 My name is Marcin and I am Software Developer stationed in Poland 🇵🇱
+👨‍💻 My name is Marcin and I am Software Engineer stationed in Poland 🇵🇱
 
 👨‍💼 Currently working as a Frontend Developer in [@PSNC](https://www.linkedin.com/company/poznan-supercomputing-and-networking-center/mycompany/)
 
@@ -18,7 +18,7 @@
 
 📚 Active fan of travel and books, ex-musician and lover of everything related to the Faroe Islands 🐑 🇫🇴
 
-## Tech stack
+## 🧪 Tech stack
 
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-5162ff?style=flat-square&logo=javascript&logoColor=white" />
@@ -63,23 +63,65 @@
   <img alt="Linux" src="https://img.shields.io/badge/Linux-E71818?style=flat-square&logo=linux&logoColor=white" />
 </p>
 
-## What I'm up to
+## ✨ What I'm up to
 
-<img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white" />
-<img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" />
-<img src="https://img.shields.io/badge/Phoenix%20Framework-FD4F00?style=for-the-badge&logo=phoenixframework&logoColor=fff" />
-<img src="https://img.shields.io/badge/remix-000000?style=for-the-badge&logo=remix&logoColor=white" />
-<img src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+📜 Writing master's thesis [right here](https://github.com/marcol13/milp-electre)
 
-## Some cool stats
+💻 Creating my resume website [in this repo](https://github.com/marcol13/milp-electre)
 
-## How to reach me
+ 
+<p>
+  🏫 I am learning: 
+  <img src="https://img.shields.io/badge/Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white" />
+  <img src="https://img.shields.io/badge/Phoenix-FD4F00?style=flat-square&logo=phoenixframework&logoColor=fff" />
+  <img src="https://img.shields.io/badge/fastapi-109989?style=flat-square&logo=FASTAPI&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white" />
+</p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcol13&show_icons=true&locale=en&layout=compact" alt="marcol13" /></p>
+<p>
+  🌈 Future plans:
+  <img src="https://img.shields.io/badge/remix-000000?style=flat-square&logo=remix&logoColor=white" />
+  <img src="https://img.shields.io/badge/ThreeJs-black?style=flat-square&logo=three.js&logoColor=white" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcol13&show_icons=true&locale=en" alt="marcol13" /></p>
+💡 I have a lot of other cool ideas 😎
+
+## 🧧 Some cool stats
+
+<p>
+  <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=marcol13&show_icons=true&theme=synthwave"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=marcol13&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=marcol13&show_icons=true" />
+</picture>
+</p>
+
+<p>
+  <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=marcol13&size_weight=0.2&count_weight=0.8&theme=synthwave"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=marcol13&size_weight=0.2&count_weight=0.8"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcol13&size_weight=0.2&count_weight=0.8" />
+</picture>
+</p>
+
+
+## 🚀 How to reach me
+
+Write me an email or contact me through [Linkedin](https://www.linkedin.com/in/marcin-krueger/?locale=en_US)
+
 
  <!--[<img src="[https://media.giphy.com/media/maNB0qAiRVAty/giphy.gif](https://media.giphy.com/media/mcsPU3SkKrYDdW3aAU/giphy.gif)" />](https://media.giphy.com/media/mcsPU3SkKrYDdW3aAU/giphy.gif) -->
 
