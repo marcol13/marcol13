@@ -8,11 +8,11 @@
 
 👨‍💻 My name is Marcin and I am Software Engineer stationed in Poland 🇵🇱
 
-👨‍💼 Currently working as a Frontend Developer at [@PSNC](https://www.linkedin.com/company/poznan-supercomputing-and-networking-center/mycompany/)
+👨‍💼 Currently working as a Frontend Developer at <a href="https://www.linkedin.com/company/poznan-supercomputing-and-networking-center/mycompany/" target="_blank">@PSNC</a>
 
 👨‍🎓 Master's student in Artificial Intelligence with an engineering degree
 
-👨‍🏫 Secretary of AKAI - Internet Application Research Group [@akai-org](https://github.com/akai-org)
+👨‍🏫 Secretary of AKAI - Internet Application Research Group <a href="https://github.com/akai-org" target="_blank">@akai-org</a>
 
 📚 Active fan of travel and books, ex-musician and lover of everything related to the Faroe Islands 🐑 🇫🇴
 
@@ -63,9 +63,9 @@
 
 ## ✨ What I'm up to
 
-📜 Writing master's thesis [right here](https://github.com/marcol13/milp-electre)
+📜 Writing master's thesis <a href="https://github.com/marcol13/milp-electre" target="_blank">right here</a>
 
-💻 Creating my resume website [in this repo](https://github.com/marcol13/milp-electre)
+💻 Creating my resume website <a href="https://github.com/marcol13/milp-electre" target="_blank">in this repo</a>
 
 <p>
   🏫 I am learning: 
@@ -109,4 +109,4 @@
 
 ## 🚀 How to reach me
 
-Write me an [email](mailto:marcinkrueger@gmail.com) or contact me through [LinkedIn](https://www.linkedin.com/in/marcin-krueger/?locale=en_US)
+Write me an [email](mailto:marcinkrueger@gmail.com) or contact me through <a href="https://www.linkedin.com/in/marcin-krueger/?locale=en_US" target="_blank">LinkedIn</a>
