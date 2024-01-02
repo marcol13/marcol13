@@ -65,7 +65,7 @@
 
 📜 Writing master's thesis <a href="https://github.com/marcol13/milp-electre" target="_blank">right here</a>
 
-💻 Creating my resume website <a href="https://github.com/marcol13/milp-electre" target="_blank">in this repo</a>
+💻 Creating my resume website <a href="https://github.com/marcol13/mkrueger.pl" target="_blank">in this repo</a>
 
 <p>
   🏫 I am learning: 
