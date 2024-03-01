@@ -8,13 +8,11 @@
 
 👨‍💻 My name is Marcin and I am Software Engineer stationed in Poland 🇵🇱
 
-👨‍💼 Currently working as a Frontend Developer at <a href="https://www.linkedin.com/company/poznan-supercomputing-and-networking-center/mycompany/" target="_blank">@PSNC</a>
-
 👨‍🎓 Master's student in Artificial Intelligence with an engineering degree
 
 👨‍🏫 Secretary of AKAI - Internet Application Research Group <a href="https://github.com/akai-org" target="_blank">@akai-org</a>
 
-📚 Active fan of travel and books, ex-musician and lover of everything related to the Faroe Islands 🐑 🇫🇴
+📚 Active fan of travel and books, musician and lover of everything related to the Faroe Islands 🐑 🇫🇴
 
 ## 🧪 Tech stack
 
